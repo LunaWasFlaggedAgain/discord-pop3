@@ -1,0 +1,5 @@
+package main
+
+// If the token is a bot token it needs to have a "Bot " prefix. Like "Bot AAAAA.AAAA.AAAAA"
+const TOKEN = ""
+const CHANNEL = ""
